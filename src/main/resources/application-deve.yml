@@ -1,0 +1,13 @@
+server:
+  port: 80
+cupSize: A
+content: "cupSize: ${cupSize},server: ${server.port}"
+first:
+  a:
+    b:
+      a1: 2
+      a2: 3
+
+
+
+
