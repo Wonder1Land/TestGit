@@ -1,5 +1,7 @@
 server:
   port: 80
+  servlet:
+    context-path: /girl
 cupSize: A
 content: "cupSize: ${cupSize},server: ${server.port}"
 first:
