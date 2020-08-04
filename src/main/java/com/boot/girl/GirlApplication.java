@@ -15,6 +15,7 @@ public class GirlApplication {
 		System.out.println("第一次提交");
 		System.out.println("第3次提交");
 		System.out.println("第4次提交");
+		System.out.println("第5次提交");
 		/*SpringApplication sp=new SpringApplication();
 		sp.setBannerMode(Banner.Mode.OFF);
 		sp.run(GirlApplication.class, args);*/
